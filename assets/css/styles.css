@@ -1,0 +1,39 @@
+header {
+    /* margin: 25px; */
+}
+
+main {
+    padding: 5%;
+    margin: 5%;
+
+}
+
+input {
+    margin-bottom: 2%;
+}
+
+/* body {
+    background-image: url("./assets/img/architecture-buildings-business-2332257.jpg");
+    background-position: center;
+
+} */
+
+.border-or {
+    border-top: 2px solid darkgrey;
+    
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex p {
+    font-size: 2em;
+    font-family: Tahoma, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+[type="email"] {
+    width: 100%;
+}
